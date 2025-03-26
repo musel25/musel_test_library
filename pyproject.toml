@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "musel-test-library"
-version = "0.1.2"
+version = "0.1.3"
 description = ""
 authors = ["musel25 <muselemmanuel@hotmail.com>"]
 readme = "README.md"
